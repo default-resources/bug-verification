@@ -1,6 +1,6 @@
 {
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 64,
+  "bottomRow": 59,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "colorRange": [
     {
@@ -65,21 +65,21 @@
   "isLoading": false,
   "isVisible": true,
   "key": "i4jj52p69u",
-  "leftColumn": 5,
+  "leftColumn": 14,
   "mapTitle": "Global Population",
   "mapType": "WORLD",
   "parentColumnSpace": 12.1875,
   "parentId": "0",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "rightColumn": 29,
+  "rightColumn": 38,
   "searchTags": [
     "graph",
     "visuals",
     "visualisations"
   ],
   "showLabels": true,
-  "topRow": 32,
+  "topRow": 27,
   "type": "MAP_CHART_WIDGET",
   "version": 1,
   "widgetId": "rrtrs3hcud",
